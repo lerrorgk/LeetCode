@@ -4,6 +4,7 @@
         "vector": "cpp",
         "xiosbase": "cpp",
         "xstring": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "utility": "cpp"
     }
 }
